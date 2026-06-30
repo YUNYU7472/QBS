@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+.env
+.venv/
+venv/
+
+database/backup/*
+!database/backup/.gitkeep
+!database/backup/README.md
